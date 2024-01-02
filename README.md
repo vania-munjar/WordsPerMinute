@@ -4,8 +4,8 @@ Welcome to the Word Per Minute (WPM) Calculator! This Python script allows you t
 
 # How to Use
 1. Clone the repository to your local machine:
-git clone https://github.com/your-username/wpm-calculator.git
-
+git clone [https://github.com/your-username/wpm-calculator.git
+](https://github.com/vania-munjar/WordsPerMinute)
 2. Navigate to the project directory:
 cd WPM
 
